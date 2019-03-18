@@ -1,0 +1,10 @@
+{
+    "name": "hantu/contactform",
+    "description": "Test package for Laravel",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hantu\\contactform\\": "src/"
+        }
+    }
+}
